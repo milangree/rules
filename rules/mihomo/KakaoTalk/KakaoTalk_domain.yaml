@@ -1,0 +1,10 @@
+payload:
+  - 'DOMAIN-SUFFIX,daum.net'
+  - 'DOMAIN-SUFFIX,daumcdn.net'
+  - 'DOMAIN-SUFFIX,daumkakao.io'
+  - 'DOMAIN-SUFFIX,daumpotplayer.com'
+  - 'DOMAIN-SUFFIX,kakao.co.kr'
+  - 'DOMAIN-SUFFIX,kakao.com'
+  - 'DOMAIN-SUFFIX,kakaocdn.net'
+  - 'DOMAIN-SUFFIX,kakaocorp.com'
+  - 'DOMAIN-SUFFIX,potplayer.tv'
