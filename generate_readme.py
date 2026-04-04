@@ -150,11 +150,10 @@ def generate(entries: list) -> str:
 [![sing-box](https://img.shields.io/badge/sing--box-支持-9b59b6?style=flat-square)](https://sing-box.sagernet.org)
 [![mihomo](https://img.shields.io/badge/mihomo-支持-3498db?style=flat-square)](https://wiki.metacubex.one)
 
-> 每日不定时自动构建一次，基于上游项目 [blackmatrix7/ios_rule_script]({UPSTREAM}) 的 Clash 规则，
+> 每日自动构建，基于上游项目 [blackmatrix7/ios_rule_script]({UPSTREAM}) 的 Clash 规则，
 > 经 GitHub Actions 自动编译为 sing-box `.srs` 与 mihomo `.mrs` 二进制格式后发布。
 >
-> 许可证：GPL-3.0
-> 本次构建：{ts}（UTC+8）
+> 作者：[milangree](https://github.com/milangree) · 许可证：GPL-3.0 · 本次构建：{ts}（UTC+8）
 
 ---
 
