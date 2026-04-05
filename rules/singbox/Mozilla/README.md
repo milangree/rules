@@ -1,0 +1,15 @@
+# Mozilla
+
+#### 规则链接
+
+**sing-box**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/singbox/Mozilla/Mozilla.srs`
+`https://cdn.jsdelivr.net/gh/milangree/rules@main/rules/singbox/Mozilla/Mozilla.srs`
+
+**mihomo（域名）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Mozilla/Mozilla_domain.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Mozilla/Mozilla_domain.yaml`
+
+**mihomo（IP）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Mozilla/Mozilla_ipcidr.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Mozilla/Mozilla_ipcidr.yaml`

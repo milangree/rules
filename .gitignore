@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# 构建中间文件（CI 临时产物）
+asn.zip
+asn/
+ios_rule_script.zip
+ios_rule_script/
+sing-box.deb
+*.conf
+
+# 编辑器 / 系统
+.DS_Store
+.idea/
+.vscode/

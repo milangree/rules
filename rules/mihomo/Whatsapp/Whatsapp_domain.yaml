@@ -1,0 +1,7 @@
+payload:
+  - 'DOMAIN,graph.facebook.com'
+  - 'DOMAIN-KEYWORD,whatsapp'
+  - 'DOMAIN-SUFFIX,bintray.com'
+  - 'DOMAIN-SUFFIX,whatsapp.biz'
+  - 'DOMAIN-SUFFIX,whatsapp.com'
+  - 'DOMAIN-SUFFIX,whatsapp.net'

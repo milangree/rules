@@ -1,0 +1,51 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "2xiaopan.fun",
+        "DOlogin.djjc.cfd",
+        "api.gudvxty.com",
+        "bitbucket.org",
+        "frontpage.invitebv.vip",
+        "ghfast.top",
+        "ghproxy.net",
+        "git.repcz.link",
+        "ksdapp.ksdao.com",
+        "login.djjc.cfd",
+        "login.vp2.biz",
+        "node.zyfx6.xyz",
+        "testingcf.jsdelivr.net",
+        "v6.gh-proxy.org",
+        "vp0.org",
+        "www.vp2.biz"
+      ],
+      "domain_keyword": [
+        "eset"
+      ],
+      "domain_suffix": [
+        "423down.com",
+        "bv3.org",
+        "daxiaamu.com",
+        "iconarchive.com",
+        "kelote.com",
+        "mefcl.com",
+        "meizubl.com",
+        "mitce.net",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "pronetwork.top",
+        "vp1.link",
+        "vp1.pw",
+        "xn--mes358a9urctx.com",
+        "ypojie.com",
+        "yyai8.com"
+      ]
+    },
+    {
+      "process_name": [
+        "com.ss.android.ugc.aweme"
+      ]
+    }
+  ],
+  "version": 2
+}
