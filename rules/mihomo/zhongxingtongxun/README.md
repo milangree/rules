@@ -1,0 +1,11 @@
+# zhongxingtongxun
+
+#### 规则链接
+
+**mihomo（域名）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/zhongxingtongxun/zhongxingtongxun_domain.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/zhongxingtongxun/zhongxingtongxun_domain.yaml`
+
+**mihomo（IP）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/zhongxingtongxun/zhongxingtongxun_ipcidr.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/zhongxingtongxun/zhongxingtongxun_ipcidr.yaml`

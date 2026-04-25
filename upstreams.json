@@ -1,0 +1,35 @@
+[
+  {
+    "name": "blackmatrix7",
+    "url": "https://github.com/blackmatrix7/ios_rule_script/archive/refs/heads/master.zip",
+    "type": "clash",
+    "zip_name": "ios_rule_script.zip",
+    "extract_folder": "ios_rule_script",
+    "rules_subpath": "ios_rule_script-master/rule/Clash",
+    "subs": ["Assassin'sCreed", "Cloud"]
+  },
+  {
+    "name": "ljrgov",
+    "url": "https://github.com/ljrgov/conf/archive/refs/heads/main.zip",
+    "type": "singbox_json",
+    "zip_name": "ljrgov_conf.zip",
+    "extract_folder": "ljrgov_conf",
+    "rules_subpath": "*/sing-box/rules"
+  },
+  {
+    "name": "quixotic",
+    "url": "https://github.com/QuixoticHeart/rule-set/archive/refs/heads/ruleset.zip",
+    "type": "mixed",
+    "zip_name": "quixotic_conf.zip",
+    "extract_folder": "quixotic_conf",
+    "rules_subpath": "*/meta"
+  },
+  {
+    "name": "metacubex",
+    "url": "https://github.com/MetaCubeX/meta-rules-dat/archive/refs/heads/meta.zip",
+    "type": "metacubex",
+    "zip_name": "metacubex_conf.zip",
+    "extract_folder": "metacubex_conf",
+    "rules_subpath": "*/geo"
+  }
+]

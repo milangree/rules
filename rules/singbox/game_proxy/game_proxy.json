@@ -1,0 +1,35 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "avatar-akm.mc.mproject.skystone.games",
+        "security.dksecsg.com"
+      ],
+      "domain_keyword": [
+        "mobilechess",
+        "trrytrutrd"
+      ],
+      "domain_suffix": [
+        "magicchessgogo.com",
+        "mobilelegends.net",
+        "moonton.com",
+        "moontontech.com",
+        "viztagames.com",
+        "youngjoygame.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "150.5.166.178/32",
+        "47.236.118.106/32",
+        "8.219.207.158/32"
+      ]
+    },
+    {
+      "process_name": [
+        "com.mobilechess.gp"
+      ]
+    }
+  ],
+  "version": 2
+}

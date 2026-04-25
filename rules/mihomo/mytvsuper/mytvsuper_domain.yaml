@@ -1,0 +1,13 @@
+payload:
+  - +.mytvsuper.com
+  - +.tvb.com
+  - DOMAIN,mytvsuperlimited.hb.omtrdc.net
+  - DOMAIN,mytvsuperlimited.sc.omtrdc.net
+  - DOMAIN-KEYWORD,nowtv100
+  - DOMAIN-KEYWORD,rthklive
+  - DOMAIN-SUFFIX,mytvsuper.com
+  - DOMAIN-SUFFIX,tvb.com
+  - mytvsuperlimited.hb.omtrdc.net
+  - mytvsuperlimited.sc.omtrdc.net
+  - nowtv100
+  - rthklive

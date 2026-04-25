@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.venv
+
+# 临时下载文件
+*.zip
+asn/
+ios_rule_script/
+ljrgov_conf/
+quixotic_conf/
+metacubex_conf/
+
+# 规则输出目录（如果你想提交生成的文件，请删除下一行）
+# rules/
+
+# IDE
+.vscode/
+.idea/
+*.swp

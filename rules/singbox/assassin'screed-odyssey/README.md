@@ -1,0 +1,7 @@
+# assassin'screed-odyssey
+
+#### 规则链接
+
+**sing-box**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/singbox/assassin'screed-odyssey/assassin'screed-odyssey.srs`
+`https://cdn.jsdelivr.net/gh/milangree/rules@main/rules/singbox/assassin'screed-odyssey/assassin'screed-odyssey.srs`

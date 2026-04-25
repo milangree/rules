@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "mytvsuperlimited.hb.omtrdc.net",
+        "mytvsuperlimited.sc.omtrdc.net"
+      ],
+      "domain_suffix": [
+        "mytvsuper.com",
+        "tvb.com"
+      ]
+    }
+  ],
+  "version": 2
+}

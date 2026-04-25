@@ -1,0 +1,16 @@
+payload:
+  - +.bahamut.akamaized.net
+  - +.bahamut.com.tw
+  - +.digicert.com
+  - +.gamer.com.tw
+  - +.gvt1.com
+  - +.hinet.net
+  - +.viblast.com
+  - DOMAIN-SUFFIX,bahamut.akamaized.net
+  - DOMAIN-SUFFIX,bahamut.com.tw
+  - DOMAIN-SUFFIX,digicert.com
+  - DOMAIN-SUFFIX,gamer.com.tw
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,hinet.net
+  - DOMAIN-SUFFIX,viblast.com
+  - bahamut.akamaized.net

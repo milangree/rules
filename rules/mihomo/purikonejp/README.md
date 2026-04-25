@@ -1,0 +1,11 @@
+# purikonejp
+
+#### 规则链接
+
+**mihomo（域名）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/purikonejp/purikonejp_domain.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/purikonejp/purikonejp_domain.yaml`
+
+**mihomo（IP）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/purikonejp/purikonejp_ipcidr.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/purikonejp/purikonejp_ipcidr.yaml`
