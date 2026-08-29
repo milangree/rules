@@ -1,0 +1,36 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "example.com"
+      ],
+      "domain_keyword": [
+        "twitter"
+      ],
+      "domain_regex": [
+        "^.*\\.steamcontent\\.com$"
+      ],
+      "domain_suffix": [
+        "githubusercontent.com",
+        "google.com"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "1.1.1.1/32",
+        "192.168.1.0/24",
+        "2001:b28:f23c::/48",
+        "2001:db8::/32",
+        "2001:db8::1/128",
+        "91.108.20.0/22",
+        "91.108.20.0/23"
+      ]
+    },
+    {
+      "process_name": [
+        "Telegram.exe"
+      ]
+    }
+  ],
+  "version": 2
+}

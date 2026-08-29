@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "auth.wosms.cn",
+        "bitbucket.org",
+        "id6.me",
+        "ksdapp.ksdao.com",
+        "lancache.steamcontent.com",
+        "mdn.open.wo.cn",
+        "open.e.189.cn",
+        "opencloud.wostore.cn"
+      ],
+      "domain_suffix": [
+        "10099.com.cn",
+        "423down.com",
+        "cmpassport.com",
+        "daxiaamu.com",
+        "kelote.com",
+        "lan",
+        "local",
+        "maihaolian.com",
+        "mefcl.com",
+        "meizubl.com",
+        "msftconnecttest.com",
+        "msftncsi.com",
+        "opinstallinit.com",
+        "qing2000.com",
+        "qwmkv.com",
+        "vvmp4.com",
+        "wogg.live",
+        "xxooo.cf",
+        "ypojie.com"
+      ]
+    }
+  ],
+  "version": 2
+}

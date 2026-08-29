@@ -1,0 +1,7 @@
+payload:
+  - DOMAIN,example.com
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-REGEX,^.*\.steamcontent\.com$
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,google.com
+  - PROCESS-NAME,Telegram.exe
