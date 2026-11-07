@@ -1,0 +1,11 @@
+# Pixiv
+
+#### 规则链接
+
+**mihomo（域名）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Pixiv/Pixiv_domain.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Pixiv/Pixiv_domain.yaml`
+
+**mihomo（Classical）**
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Pixiv/Pixiv_classical.mrs`
+`https://raw.githubusercontent.com/milangree/rules/main/rules/mihomo/Pixiv/Pixiv_classical.yaml`
